@@ -26,5 +26,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="这是dev分支上的东西!" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="这是最稳定的版本了" />
 
 </LinearLayout>
