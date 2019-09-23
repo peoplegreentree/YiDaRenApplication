@@ -31,4 +31,9 @@
         android:layout_height="wrap_content"
         android:text="这是最稳定的版本了" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="这是组第三次提交了" />
+
 </LinearLayout>
